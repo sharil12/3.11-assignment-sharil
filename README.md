@@ -1,4 +1,4 @@
-# ECS Fargate simple creation
+# ECS Fargate simple creation readme
 
 
 ### What is ECS? 
